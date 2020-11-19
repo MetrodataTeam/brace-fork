@@ -1,6 +1,6 @@
 {
-  "name": "brace",
-  "version": "0.11.1",
+  "name": "brace-fork",
+  "version": "1.0.1",
   "description": "browserify compatible version of the ace editor.",
   "main": "index.js",
   "typings": "index.d.ts",
